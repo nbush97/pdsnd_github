@@ -4,10 +4,10 @@
 12/5/2025
 
 ### Project Title
-Project 3
+Bikeshare App
 
 ### Description
-Simulate a realistic workflow to update a project using Git.
+View bikeshare rental data from 3 major cities
 
 ### Files used
 bikeshare_starter.py
